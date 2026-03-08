@@ -371,10 +371,8 @@ Bondhu is a wellness companion — not a medical device, not a replacement for l
 |---|---|
 | **Saikat Bandopadhyay** | Mentor & Advisor |
 | **Md Haaris Hussain** | Full Stack Developer · Team Lead |
-| **Raquib** | AI Engineer |
-| **Shaikh Ahmad** | Backend Developer |
-| **Md Adinul Arfin** | Frontend Developer |
-| **Nawal Fida Laskar** | UI/UX Designer |
+| **Raquib** | Devops and Infrastructure |
+
 
 *Pre-Incubated by **StartUp ki Pathsala***  
 *Built in **Kolkata, India** 🇮🇳*
